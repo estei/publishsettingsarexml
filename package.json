@@ -1,5 +1,5 @@
 {
-    "name": "PublishSettingAreXml",
+    "name": "PublishSettingsAreXml",
     "version": "1.0.1",
     "engines": {
         "vscode": "0.10.x"
