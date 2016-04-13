@@ -1,0 +1,33 @@
+{
+    "name": "PublishSettingAreXml",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "0.10.x"
+    },
+    "bugs": {
+        "url": "https://github.com/estei/publishsettingsarexml/issues"
+    },
+    "homepage": "https://github.com/estei/publishsettingsarexml",
+    "license": "MIT",
+    "publisher": "estei",
+    "categories": [
+        "Other",
+        "Languages"
+    ],
+    "extensionDependencies": [
+        "xml"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "xml",
+                "aliases": [
+                    "PublishSettings"
+                ],
+                "extensions": [
+                    ".PublishSettings"
+                ]
+            }
+        ]
+    }
+}

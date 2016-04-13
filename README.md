@@ -1,2 +1,3 @@
-# publishsettingsarexml
-A very simple extension for Visual Studio Code that aliases .PublishSettings to the xml colorizer
+# PublishSettings Are Xml
+
+A very simple extension that aliases .PublishSettings to the xml colorizer.
